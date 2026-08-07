@@ -35,6 +35,22 @@ const nextConfig = {
       }
     ]
   },
+
+  // ====== 新增：允许浏览器插件跨域调用所有API接口 ======
+  async headers() {
+    return [
+      {
+        source: "/api/:path*",
+        headers: [
+          { key: "Access-Control-Allow-Origin", value: "*" },
+          { key: "Access-Control-Allow-Methods", value: "GET,POST,OPTIONS,PUT,PATCH,DELETE" },
+          { key: "Access-Control-Allow-Headers", value: "Content-Type, Authorization, Accept" }
+        ]
+      }
+    ]
+  },
+  // =====================================================
+
   // Cloudflare Pages configuration
   experimental: {
     serverActions: {
