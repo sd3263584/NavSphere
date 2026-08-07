@@ -95,12 +95,13 @@
         {
           "id": "1786092297656",
           "title": "Youtube",
-          "href": "https://www.youtube.com/watch?v=N29VqZ9bLhc&list=RDN29VqZ9bLhc&start_radio=1",
+          "href": "https://www.youtube.com/watch?v=N29VqZ9bLhc",
           "description": "访问 www.youtube.com",
           "icon": "https://i.ytimg.com/vi/iHzUXXl-uuA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBg4PTeCSBS4ZGmLKfVx5uV30j97A",
           "enabled": true,
           "videoConfig": {
-            "type": "youtube"
+            "type": "youtube",
+            "videoId": "N29VqZ9bLhc"
           }
         }
       ],
