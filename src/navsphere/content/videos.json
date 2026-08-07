@@ -114,7 +114,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "b186d95b-fe70-44fb-a641-931b78c88a38",
+          "title": "精选动漫",
+          "icon": "PlayCircle",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
