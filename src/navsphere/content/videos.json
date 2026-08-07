@@ -127,7 +127,7 @@
               "title": "大天蓬",
               "href": "https://www.bilibili.com/video/BV1Nsj46fEmC",
               "description": "访问 www.bilibili.com",
-              "icon": "/assets/favicon_1786094681135.png",
+              "icon": "https://i2.hdslb.com/bfs/archive/485b52b6d5def7afe9a85da9c6caf6dc7137276b.jpg@672w_378h_1c_!web-search-common-cover.avif",
               "enabled": true,
               "videoConfig": {
                 "type": "bilibili",
