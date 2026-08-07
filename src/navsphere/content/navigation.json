@@ -148,6 +148,14 @@
           "description": "edge 插件上传地址",
           "icon": "/assets/favicon_1768145646425.png",
           "enabled": true
+        },
+        {
+          "id": "item-1786075405838",
+          "enabled": true,
+          "title": "EPIC OLED 16K Perfection | Dolby Vision HDR 120FPS Stress Relief Music | 8K/4K Video ULTRA HD TV - YouTube",
+          "href": "https://www.youtube.com/watch?v=hXt0BGqko28&list=RDhXt0BGqko28&start_radio=1",
+          "description": "访问 www.youtube.com",
+          "icon": "/assets/favicon_1786075392844.png"
         }
       ],
       "subCategories": [],
