@@ -10,4 +10,4 @@ GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://navsphere-5tr.pages.dev"
 NEXT_PUBLIC_API_URL="https://navsphere-5tr.pages.dev"
-
+GITHUB_PAT = "532a2bb71b7761bb2c0f335780149ddf4c10d68a"
