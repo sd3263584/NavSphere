@@ -106,6 +106,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1786094434488",
+      "title": "哔哩哔哩",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
