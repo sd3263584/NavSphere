@@ -142,6 +142,17 @@
               "description": "访问 upos-sz-estgoss.bilivideo.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=upos-sz-estgoss.bilivideo.com",
               "enabled": true
+            },
+            {
+              "id": "1786104612012",
+              "title": "大天蓬00",
+              "href": "https://upos-sz-estgoss.bilivideo.com/upgcxcode/95/65/39276316595/39276316595-1-192.mp4?e=ig8euxZM2rNcNbRg7zdVhwdlhWNahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=526083229&oi=1999216092&platform=html5&gen=playurlv3&og=ali&deadline=1786111704&uipk=5&trid=5814487cc9f741449a63c3e0bb18c5eh&nbs=1&os=estgoss&upsig=9fe6128d305485e9e513d172bc3b94b0&uparams=e,mid,oi,platform,gen,og,deadline,uipk,trid,nbs,os&bvc=vod&nettype=0&bw=1022699&lrs=2&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1",
+              "description": "访问 upos-sz-estgoss.bilivideo.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=upos-sz-estgoss.bilivideo.com",
+              "enabled": true,
+              "videoConfig": {
+                "type": "bilibili"
+              }
             }
           ]
         }
