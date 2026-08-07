@@ -84,6 +84,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1786092276630",
+      "title": "YouTube视频",
+      "icon": "Video",
+      "description": "YouTube精选",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
