@@ -121,7 +121,21 @@
           "icon": "PlayCircle",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1786094490996",
+              "title": "大天蓬",
+              "href": "https://www.bilibili.com/video/BV1Nsj46fEmC",
+              "description": "访问 www.bilibili.com",
+              "icon": "/assets/favicon_1786094681135.png",
+              "enabled": true,
+              "videoConfig": {
+                "type": "bilibili",
+                "bvid": "BV1Nsj46fEmC",
+                "p": 1
+              }
+            }
+          ]
         }
       ]
     }
