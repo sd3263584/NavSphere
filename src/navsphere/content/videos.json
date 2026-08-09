@@ -103,6 +103,18 @@
             "type": "youtube",
             "videoId": "N29VqZ9bLhc"
           }
+        },
+        {
+          "id": "1786257892073",
+          "title": "Youtube",
+          "href": "https://www.youtube.com/watch?v=Kh4m62Q3lH4",
+          "description": "访问 www.youtube.com",
+          "icon": "/assets/favicon_1786257895914.png",
+          "enabled": true,
+          "videoConfig": {
+            "type": "bilibili",
+            "bvid": "Kh4m62Q3lH4"
+          }
         }
       ],
       "subCategories": []
