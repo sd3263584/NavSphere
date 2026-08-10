@@ -112,7 +112,8 @@
           "icon": "/assets/favicon_1786257895914.png",
           "enabled": true,
           "videoConfig": {
-            "type": "bilibili",
+            "type": "youtube",
+            "videoId": "8YonZoADMyI",
             "bvid": "Kh4m62Q3lH4"
           }
         },
